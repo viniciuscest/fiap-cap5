@@ -1,0 +1,90 @@
+.box-login {
+    padding: 5px;
+    border-width: 2px !important;
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+
+.box-active {
+    border-color: #003358 !important;
+}
+
+.box-inactive {
+    border-color: #DFDFDF !important;
+}
+
+input[type=text], input[type=email], input[type=password] {
+    
+    outline: none !important;
+    margin-bottom: 10px;
+    border-radius: 0;
+    border-width: 2px !important;
+    border-color: #003358 !important;
+}
+
+.form-control, .form-check {
+
+    border: 0;
+    margin-bottom: 25px !important;
+}
+
+.btn-fintech {
+
+    border-radius: 0 !important;
+    background-color: #003358;
+    color: #FFFFFF;
+}
+
+.btn-fintech-lg {
+
+    width: 25%;
+}
+
+.bg-home-fin {
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #006EBD;
+    color: #FFFFFF;
+}
+
+.bg-financial-summary {
+    background-color: #003358 !important;
+}
+
+.remove-all-margin{
+    margin:0 !important;
+    max-width: none !important;
+    padding: 0 !important;
+}
+
+.span-positive-value {
+    color: #89CE99;
+}
+
+.span-negative-value {
+    color: #CE8989;
+}
+
+.span-title {
+    display: block !important;
+}
+
+.span-inactive-text {
+    color: #ADADAD !important;
+}
+
+.box-transactions {
+    padding: 10px;
+}
+
+.box-transactions-table {
+    display: table;
+}
+
+.box-transactions-table-value {
+    display: table-cell;
+    vertical-align: middle;
+}
+
